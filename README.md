@@ -31,5 +31,5 @@
 ## Connect With Me
 
 - GitHub: https://github.com/rohitsaini8
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your college email]
+- LinkedIn: https://github.com/rohitsaini8/cse103-lab-LAB3
+- Email: 2601730235@krmu.edu.in
